@@ -15,5 +15,6 @@ class MainActivity : AppCompatActivity() {
         println("Rebase commits6")
         println("Test 1")
         println("Test 2")
+        println("Test 3")
     }
 }
