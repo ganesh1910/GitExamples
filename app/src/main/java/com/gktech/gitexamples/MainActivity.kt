@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         println("Rebase commits")
         println("Rebase commits3")
         println("Rebase commits4")
+        println("Rebase commits5")
+        println("Rebase commits6")
     }
 }
